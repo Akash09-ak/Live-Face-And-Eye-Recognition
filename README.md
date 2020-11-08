@@ -1,1 +1,1 @@
-# Live-Face-Recognition
+# Live-Face-and-Eye-Recognition
